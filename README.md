@@ -1,5 +1,7 @@
 # Help Boost Our Online Reach!
 
+This task was done as a Mini-Project for the AI511 - Machine Learning course @ IIIT-B M.Tech CSE
+
 ## Problem Statement
 Consider yourself to be a consultant for an online advertising agency. The agency spends a considerable amount of time and money to find the best web pages to publish their ads on. They select web pages that will generate prolonged online traffic so that their ads can have a long-lasting reach.
 
@@ -23,5 +25,3 @@ Can this fast-paced ad agency bank on you to deliver on this project?
 - The best results were obtained with Trigrams Word2Vec with averaging approach + 4-Layer MLP architecture.
 
 ##
-
-This task was done as a Mini-Project for the AI511 - Machine Learning course @ IIIT-B M.Tech CSE
