@@ -25,3 +25,4 @@ Can this fast-paced ad agency bank on you to deliver on this project?
 - The best results were obtained with Trigrams Word2Vec with averaging approach + 4-Layer MLP architecture.
 
 ##
+Check Final Report.pdf for a full overview of what was done in this project.
