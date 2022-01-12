@@ -15,8 +15,13 @@ Can this fast-paced ad agency bank on you to deliver on this project?
 - Applied basic preprocessing techniques to do EDA on the data.
 - Used URL data to engineer websiteName feature.
 - Applied NLP preprocessing techniques on the websiteDescription data.
-- Preprocessed text data was given to the TF-IDF Vectorizer to get feature vectors.
+- Preprocessed text data was given to the TF-IDF Vectorizer to get feature vectors with vocabulary size of 10000 words.
 - Standard sklearn classification models like Logistic Regression, Random Forest, SVM, etc. were applied on this data.
+- Used Chi-Squared Test to reduce vocabulary size to 305 words and still retain same score.
 - Word2Vec was applied using two approaches (sentences & trigrams) to obtain word vectors which were then averaged to get feature vectors.
 - Standard sklearn classification models + various architectures for the MLP Classifier were tried on this data.
 - The best results were obtained with Trigrams Word2Vec with averaging approach + 4-Layer MLP architecture.
+
+##
+
+This task was done as a Mini-Project for the AI511 - Machine Learning course @ IIIT-B M.Tech CSE
